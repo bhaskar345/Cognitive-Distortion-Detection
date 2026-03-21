@@ -17,7 +17,7 @@ The **Cognitive Distortion Detector** is a lightweight, AI-powered web applicati
 
 The model supports **12 distortion classes** and **28 emotion labels**, running entirely offline via ONNX — no API keys, no internet required after setup.
 
-[Download Model](https://drive.google.com/drive/folders/1Cq6_ClVG1xBriuZbCVHmFfcgvFDNv5kp?usp=sharing)
+[Download Model](https://drive.google.com/drive/folders/14m1CnT6-LUVMlFHHde93PMyc6ofIXw_7?usp=sharing)
 
 ---
 

@@ -7,6 +7,7 @@ __pycache__/
 *.pyo
 
 test/
+model/
 test.py
 
 # Virtual environment
