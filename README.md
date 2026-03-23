@@ -17,8 +17,6 @@ The **Cognitive Distortion Detector** is a lightweight, AI-powered web applicati
 
 The model supports **12 distortion classes** and **28 emotion labels**, running entirely offline via ONNX — no API keys, no internet required after setup.
 
-[Download Model](https://drive.google.com/drive/folders/14m1CnT6-LUVMlFHHde93PMyc6ofIXw_7?usp=sharing)
-
 ---
 
 ## 🗂️ Project Structure
@@ -135,7 +133,7 @@ Input Text
     ▼
 [Pretrained BERT Encoder]
     │
-    ├──► Distortion Head   →  Softmax over 13 classes
+    ├──► Distortion Head   →  Softmax over 12 classes
     ├──► Emotion Head      →  Sigmoid over 28 emotion labels (multi-label)
     ├──► Span Start Head   →  Token-level classification (QA-style)
     └──► Span End Head     →  Token-level classification (QA-style)
